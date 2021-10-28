@@ -1,6 +1,6 @@
 # Contact-Management-System
 
-### Application to maintain company employee contact details.
+### Application to maintain contact details of company employees.
 
 ## Output:
 
